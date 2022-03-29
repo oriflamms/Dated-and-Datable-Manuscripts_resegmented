@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Linking data for document transcriptions and image zones (alignements_mss)</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Oriflamms project ((http://oriflamms.hypotheses.org))</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Converted from Oriflamms XML-TEI transcription file</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <listPrefixDef>
+            <prefixDef ident="txt"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="../texts/mss-dates-c.xml.xml#$1"/>
+            <prefixDef ident="img"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="../zones/-zones.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2015-12-02">File created</change>
+         <change when="2022-03-09">File regenerated</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="linking">
+            <linkGrp type="surfaces">
+               <link target="txt:surf_IRHT_P_005065 img:zone-surf_IRHT_P_005065"/>
+            </linkGrp>
+            <linkGrp type="pages">
+               <link target="txt:page_IRHT_P_005065 img:zone-page_IRHT_P_005065"/>
+            </linkGrp>
+            <linkGrp type="columns">
+               <link target="txt:col_IRHT_P_005065_1 img:zone-col_IRHT_P_005065_1"/>
+            </linkGrp>
+            <linkGrp type="lines">
+               <link target="txt:line_IRHT_P_005065_1-1 img:zone-line_IRHT_P_005065_1-1"/>
+               <link target="txt:line_IRHT_P_005065_1-2 img:zone-line_IRHT_P_005065_1-2"/>
+               <link target="txt:line_IRHT_P_005065_1-3 img:zone-line_IRHT_P_005065_1-3"/>
+               <link target="txt:line_IRHT_P_005065_1-4 img:zone-line_IRHT_P_005065_1-4"/>
+               <link target="txt:line_IRHT_P_005065_1-5 img:zone-line_IRHT_P_005065_1-5"/>
+               <link target="txt:line_IRHT_P_005065_1-6 img:zone-line_IRHT_P_005065_1-6"/>
+               <link target="txt:line_IRHT_P_005065_1-7 img:zone-line_IRHT_P_005065_1-7"/>
+               <link target="txt:line_IRHT_P_005065_1-8 img:zone-line_IRHT_P_005065_1-8"/>
+               <link target="txt:line_IRHT_P_005065_1-9 img:zone-line_IRHT_P_005065_1-9"/>
+               <link target="txt:line_IRHT_P_005065_1-10 img:zone-line_IRHT_P_005065_1-10"/>
+            </linkGrp>
+            <linkGrp type="words">
+               <link target="txt:w_mss-dates_11774 img:zone-w_mss-dates_11774"/>
+               <link target="txt:w_mss-dates_11775 img:zone-w_mss-dates_11775"/>
+               <link target="txt:w_mss-dates_11776 img:zone-w_mss-dates_11776"/>
+               <link target="txt:w_mss-dates_11777 img:zone-w_mss-dates_11777"/>
+               <link target="txt:w_mss-dates_11778 img:zone-w_mss-dates_11778"/>
+               <link target="txt:w_mss-dates_11779 img:zone-w_mss-dates_11779"/>
+               <link target="txt:w_mss-dates_11780 img:zone-w_mss-dates_11780"/>
+               <link target="txt:w_mss-dates_11781 img:zone-w_mss-dates_11781"/>
+               <link target="txt:w_mss-dates_11782 img:zone-w_mss-dates_11782"/>
+               <link target="txt:w_mss-dates_11783 img:zone-w_mss-dates_11783"/>
+               <link target="txt:w_mss-dates_11784 img:zone-w_mss-dates_11784"/>
+               <link target="txt:w_mss-dates_11785 img:zone-w_mss-dates_11785"/>
+               <link target="txt:w_mss-dates_11786 img:zone-w_mss-dates_11786"/>
+               <link target="txt:w_mss-dates_11787 img:zone-w_mss-dates_11787"/>
+               <link target="txt:w_mss-dates_11788 img:zone-w_mss-dates_11788"/>
+               <link target="txt:w_mss-dates_11789 img:zone-w_mss-dates_11789"/>
+               <link target="txt:w_mss-dates_11790 img:zone-w_mss-dates_11790"/>
+               <link target="txt:w_mss-dates_11791 img:zone-w_mss-dates_11791"/>
+               <link target="txt:w_mss-dates_11792 img:zone-w_mss-dates_11792"/>
+               <link target="txt:w_mss-dates_11793 img:zone-w_mss-dates_11793"/>
+               <link target="txt:w_mss-dates_11794 img:zone-w_mss-dates_11794"/>
+               <link target="txt:w_mss-dates_11795 img:zone-w_mss-dates_11795"/>
+               <link target="txt:w_mss-dates_11796 img:zone-w_mss-dates_11796"/>
+               <link target="txt:w_mss-dates_11797 img:zone-w_mss-dates_11797"/>
+               <link target="txt:w_mss-dates_11798 img:zone-w_mss-dates_11798"/>
+               <link target="txt:w_mss-dates_11799 img:zone-w_mss-dates_11799"/>
+               <link target="txt:w_mss-dates_11800 img:zone-w_mss-dates_11800"/>
+               <link target="txt:w_mss-dates_11801 img:zone-w_mss-dates_11801"/>
+               <link target="txt:w_mss-dates_11802 img:zone-w_mss-dates_11802"/>
+               <link target="txt:w_mss-dates_11803 img:zone-w_mss-dates_11803"/>
+               <link target="txt:w_mss-dates_11804 img:zone-w_mss-dates_11804"/>
+               <link target="txt:w_mss-dates_11805 img:zone-w_mss-dates_11805"/>
+               <link target="txt:w_mss-dates_11806 img:zone-w_mss-dates_11806"/>
+               <link target="txt:w_mss-dates_11807 img:zone-w_mss-dates_11807"/>
+               <link target="txt:w_mss-dates_11808 img:zone-w_mss-dates_11808"/>
+               <link target="txt:w_mss-dates_11809 img:zone-w_mss-dates_11809"/>
+               <link target="txt:w_mss-dates_11810 img:zone-w_mss-dates_11810"/>
+               <link target="txt:w_mss-dates_11811 img:zone-w_mss-dates_11811"/>
+               <link target="txt:w_mss-dates_11812 img:zone-w_mss-dates_11812"/>
+               <link target="txt:w_mss-dates_11813 img:zone-w_mss-dates_11813"/>
+               <link target="txt:w_mss-dates_11814 img:zone-w_mss-dates_11814"/>
+               <link target="txt:w_mss-dates_11815 img:zone-w_mss-dates_11815"/>
+               <link target="txt:w_mss-dates_11816 img:zone-w_mss-dates_11816"/>
+               <link target="txt:w_mss-dates_11817 img:zone-w_mss-dates_11817"/>
+               <link target="txt:w_mss-dates_11818 img:zone-w_mss-dates_11818"/>
+               <link target="txt:w_mss-dates_11819 img:zone-w_mss-dates_11819"/>
+               <link target="txt:w_mss-dates_11820 img:zone-w_mss-dates_11820"/>
+               <link target="txt:w_mss-dates_11821 img:zone-w_mss-dates_11821"/>
+               <link target="txt:w_mss-dates_11822 img:zone-w_mss-dates_11822"/>
+               <link target="txt:w_mss-dates_11823 img:zone-w_mss-dates_11823"/>
+               <link target="txt:w_mss-dates_11824 img:zone-w_mss-dates_11824"/>
+               <link target="txt:w_mss-dates_11825 img:zone-w_mss-dates_11825"/>
+               <link target="txt:w_mss-dates_11826 img:zone-w_mss-dates_11826"/>
+               <link target="txt:w_mss-dates_11827 img:zone-w_mss-dates_11827"/>
+               <link target="txt:w_mss-dates_11828 img:zone-w_mss-dates_11828"/>
+               <link target="txt:w_mss-dates_11829 img:zone-w_mss-dates_11829"/>
+               <link target="txt:w_mss-dates_11830 img:zone-w_mss-dates_11830"/>
+               <link target="txt:w_mss-dates_11831 img:zone-w_mss-dates_11831"/>
+               <link target="txt:w_mss-dates_11832 img:zone-w_mss-dates_11832"/>
+               <link target="txt:w_mss-dates_11833 img:zone-w_mss-dates_11833"/>
+               <link target="txt:w_mss-dates_11834 img:zone-w_mss-dates_11834"/>
+               <link target="txt:w_mss-dates_11835 img:zone-w_mss-dates_11835"/>
+               <link target="txt:w_mss-dates_11836 img:zone-w_mss-dates_11836"/>
+               <link target="txt:w_mss-dates_11837 img:zone-w_mss-dates_11837"/>
+               <link target="txt:w_mss-dates_11838 img:zone-w_mss-dates_11838"/>
+               <link target="txt:w_mss-dates_11839 img:zone-w_mss-dates_11839"/>
+               <link target="txt:w_mss-dates_11840 img:zone-w_mss-dates_11840"/>
+               <link target="txt:w_mss-dates_11841 img:zone-w_mss-dates_11841"/>
+            </linkGrp>
+         </ab>
+      </body>
+   </text>
+</TEI>

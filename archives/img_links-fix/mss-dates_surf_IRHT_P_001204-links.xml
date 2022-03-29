@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Linking data for document transcriptions and image zones (alignements_mss)</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Oriflamms project ((http://oriflamms.hypotheses.org))</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Converted from Oriflamms XML-TEI transcription file</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <listPrefixDef>
+            <prefixDef ident="txt"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="../texts/mss-dates-c.xml.xml#$1"/>
+            <prefixDef ident="img"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="../zones/-zones.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2015-12-02">File created</change>
+         <change when="2022-03-09">File regenerated</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab type="linking">
+            <linkGrp type="surfaces">
+               <link target="txt:surf_IRHT_P_001204 img:zone-surf_IRHT_P_001204"/>
+            </linkGrp>
+            <linkGrp type="pages">
+               <link target="txt:page_IRHT_P_001204 img:zone-page_IRHT_P_001204"/>
+            </linkGrp>
+            <linkGrp type="columns">
+               <link target="txt:col_IRHT_P_001204_1 img:zone-col_IRHT_P_001204_1"/>
+            </linkGrp>
+            <linkGrp type="lines">
+               <link target="txt:line_IRHT_P_001204_1-1 img:zone-line_IRHT_P_001204_1-1"/>
+               <link target="txt:line_IRHT_P_001204_1-2 img:zone-line_IRHT_P_001204_1-2"/>
+               <link target="txt:line_IRHT_P_001204_1-3 img:zone-line_IRHT_P_001204_1-3"/>
+               <link target="txt:line_IRHT_P_001204_1-4 img:zone-line_IRHT_P_001204_1-4"/>
+               <link target="txt:line_IRHT_P_001204_1-5 img:zone-line_IRHT_P_001204_1-5"/>
+               <link target="txt:line_IRHT_P_001204_1-6 img:zone-line_IRHT_P_001204_1-6"/>
+               <link target="txt:line_IRHT_P_001204_1-7 img:zone-line_IRHT_P_001204_1-7"/>
+               <link target="txt:line_IRHT_P_001204_1-8 img:zone-line_IRHT_P_001204_1-8"/>
+               <link target="txt:line_IRHT_P_001204_1-9 img:zone-line_IRHT_P_001204_1-9"/>
+               <link target="txt:line_IRHT_P_001204_1-10 img:zone-line_IRHT_P_001204_1-10"/>
+               <link target="txt:line_IRHT_P_001204_1-11 img:zone-line_IRHT_P_001204_1-11"/>
+               <link target="txt:line_IRHT_P_001204_1-12 img:zone-line_IRHT_P_001204_1-12"/>
+            </linkGrp>
+            <linkGrp type="words">
+               <link target="txt:w_mss-dates_1945 img:zone-w_mss-dates_1945"/>
+               <link target="txt:w_mss-dates_1946 img:zone-w_mss-dates_1946"/>
+               <link target="txt:w_mss-dates_1947 img:zone-w_mss-dates_1947"/>
+               <link target="txt:w_mss-dates_1948 img:zone-w_mss-dates_1948"/>
+               <link target="txt:w_mss-dates_1949 img:zone-w_mss-dates_1949"/>
+               <link target="txt:w_mss-dates_1950 img:zone-w_mss-dates_1950"/>
+               <link target="txt:w_mss-dates_1951 img:zone-w_mss-dates_1951"/>
+               <link target="txt:w_mss-dates_1952 img:zone-w_mss-dates_1952"/>
+               <link target="txt:w_mss-dates_1953 img:zone-w_mss-dates_1953"/>
+               <link target="txt:w_mss-dates_1954 img:zone-w_mss-dates_1954"/>
+               <link target="txt:w_mss-dates_1955 img:zone-w_mss-dates_1955"/>
+               <link target="txt:w_mss-dates_1956 img:zone-w_mss-dates_1956"/>
+               <link target="txt:w_mss-dates_1957 img:zone-w_mss-dates_1957"/>
+               <link target="txt:w_mss-dates_1958 img:zone-w_mss-dates_1958"/>
+               <link target="txt:w_mss-dates_1959 img:zone-w_mss-dates_1959"/>
+               <link target="txt:w_mss-dates_1960 img:zone-w_mss-dates_1960"/>
+               <link target="txt:w_mss-dates_1961 img:zone-w_mss-dates_1961"/>
+               <link target="txt:w_mss-dates_1962 img:zone-w_mss-dates_1962"/>
+               <link target="txt:w_mss-dates_1963 img:zone-w_mss-dates_1963"/>
+               <link target="txt:w_mss-dates_1964 img:zone-w_mss-dates_1964"/>
+               <link target="txt:w_mss-dates_1965 img:zone-w_mss-dates_1965"/>
+               <link target="txt:w_mss-dates_1966 img:zone-w_mss-dates_1966"/>
+               <link target="txt:w_mss-dates_1967 img:zone-w_mss-dates_1967"/>
+               <link target="txt:w_mss-dates_1968 img:zone-w_mss-dates_1968"/>
+               <link target="txt:w_mss-dates_1969 img:zone-w_mss-dates_1969"/>
+               <link target="txt:w_mss-dates_1970 img:zone-w_mss-dates_1970"/>
+               <link target="txt:w_mss-dates_1971 img:zone-w_mss-dates_1971"/>
+               <link target="txt:w_mss-dates_1972 img:zone-w_mss-dates_1972"/>
+               <link target="txt:w_mss-dates_1973 img:zone-w_mss-dates_1973"/>
+               <link target="txt:w_mss-dates_1974 img:zone-w_mss-dates_1974"/>
+               <link target="txt:w_mss-dates_1975 img:zone-w_mss-dates_1975"/>
+               <link target="txt:w_mss-dates_1976 img:zone-w_mss-dates_1976"/>
+               <link target="txt:w_mss-dates_1977 img:zone-w_mss-dates_1977"/>
+               <link target="txt:w_mss-dates_1978 img:zone-w_mss-dates_1978"/>
+               <link target="txt:w_mss-dates_1979 img:zone-w_mss-dates_1979"/>
+               <link target="txt:w_mss-dates_1980 img:zone-w_mss-dates_1980"/>
+               <link target="txt:w_mss-dates_1981 img:zone-w_mss-dates_1981"/>
+               <link target="txt:w_mss-dates_1982 img:zone-w_mss-dates_1982"/>
+               <link target="txt:w_mss-dates_1983 img:zone-w_mss-dates_1983"/>
+               <link target="txt:w_mss-dates_1984 img:zone-w_mss-dates_1984"/>
+               <link target="txt:w_mss-dates_1985 img:zone-w_mss-dates_1985"/>
+               <link target="txt:w_mss-dates_1986 img:zone-w_mss-dates_1986"/>
+               <link target="txt:w_mss-dates_1987 img:zone-w_mss-dates_1987"/>
+               <link target="txt:w_mss-dates_1988 img:zone-w_mss-dates_1988"/>
+               <link target="txt:w_mss-dates_1989 img:zone-w_mss-dates_1989"/>
+               <link target="txt:w_mss-dates_1990 img:zone-w_mss-dates_1990"/>
+               <link target="txt:w_mss-dates_1991 img:zone-w_mss-dates_1991"/>
+               <link target="txt:w_mss-dates_1992 img:zone-w_mss-dates_1992"/>
+               <link target="txt:w_mss-dates_1993 img:zone-w_mss-dates_1993"/>
+               <link target="txt:w_mss-dates_1994 img:zone-w_mss-dates_1994"/>
+               <link target="txt:w_mss-dates_1995 img:zone-w_mss-dates_1995"/>
+               <link target="txt:w_mss-dates_1996 img:zone-w_mss-dates_1996"/>
+               <link target="txt:w_mss-dates_1997 img:zone-w_mss-dates_1997"/>
+               <link target="txt:w_mss-dates_1998 img:zone-w_mss-dates_1998"/>
+               <link target="txt:w_mss-dates_1999 img:zone-w_mss-dates_1999"/>
+               <link target="txt:w_mss-dates_2000 img:zone-w_mss-dates_2000"/>
+               <link target="txt:w_mss-dates_2001 img:zone-w_mss-dates_2001"/>
+               <link target="txt:w_mss-dates_2002 img:zone-w_mss-dates_2002"/>
+               <link target="txt:w_mss-dates_2003 img:zone-w_mss-dates_2003"/>
+               <link target="txt:w_mss-dates_2004 img:zone-w_mss-dates_2004"/>
+               <link target="txt:w_mss-dates_2005 img:zone-w_mss-dates_2005"/>
+               <link target="txt:w_mss-dates_2006 img:zone-w_mss-dates_2006"/>
+               <link target="txt:w_mss-dates_2007 img:zone-w_mss-dates_2007"/>
+               <link target="txt:w_mss-dates_2008 img:zone-w_mss-dates_2008"/>
+               <link target="txt:w_mss-dates_2009 img:zone-w_mss-dates_2009"/>
+               <link target="txt:w_mss-dates_2010 img:zone-w_mss-dates_2010"/>
+               <link target="txt:w_mss-dates_2011 img:zone-w_mss-dates_2011"/>
+               <link target="txt:w_mss-dates_2012 img:zone-w_mss-dates_2012"/>
+               <link target="txt:w_mss-dates_2013 img:zone-w_mss-dates_2013"/>
+               <link target="txt:w_mss-dates_2014 img:zone-w_mss-dates_2014"/>
+               <link target="txt:w_mss-dates_2015 img:zone-w_mss-dates_2015"/>
+               <link target="txt:w_mss-dates_2016 img:zone-w_mss-dates_2016"/>
+               <link target="txt:w_mss-dates_2017 img:zone-w_mss-dates_2017"/>
+               <link target="txt:w_mss-dates_2018 img:zone-w_mss-dates_2018"/>
+               <link target="txt:w_mss-dates_2019 img:zone-w_mss-dates_2019"/>
+               <link target="txt:w_mss-dates_2020 img:zone-w_mss-dates_2020"/>
+               <link target="txt:w_mss-dates_2021 img:zone-w_mss-dates_2021"/>
+               <link target="txt:w_mss-dates_2022 img:zone-w_mss-dates_2022"/>
+               <link target="txt:w_mss-dates_2023 img:zone-w_mss-dates_2023"/>
+               <link target="txt:w_mss-dates_2024 img:zone-w_mss-dates_2024"/>
+               <link target="txt:w_mss-dates_2025 img:zone-w_mss-dates_2025"/>
+               <link target="txt:w_mss-dates_2026 img:zone-w_mss-dates_2026"/>
+               <link target="txt:w_mss-dates_2027 img:zone-w_mss-dates_2027"/>
+               <link target="txt:w_mss-dates_2028 img:zone-w_mss-dates_2028"/>
+               <link target="txt:w_mss-dates_2029 img:zone-w_mss-dates_2029"/>
+               <link target="txt:w_mss-dates_2030 img:zone-w_mss-dates_2030"/>
+               <link target="txt:w_mss-dates_2031 img:zone-w_mss-dates_2031"/>
+               <link target="txt:w_mss-dates_2032 img:zone-w_mss-dates_2032"/>
+               <link target="txt:w_mss-dates_2033 img:zone-w_mss-dates_2033"/>
+               <link target="txt:w_mss-dates_2034 img:zone-w_mss-dates_2034"/>
+               <link target="txt:w_mss-dates_2035 img:zone-w_mss-dates_2035"/>
+               <link target="txt:w_mss-dates_2036 img:zone-w_mss-dates_2036"/>
+               <link target="txt:w_mss-dates_2037 img:zone-w_mss-dates_2037"/>
+               <link target="txt:w_mss-dates_2038 img:zone-w_mss-dates_2038"/>
+               <link target="txt:w_mss-dates_2039 img:zone-w_mss-dates_2039"/>
+               <link target="txt:w_mss-dates_2040 img:zone-w_mss-dates_2040"/>
+               <link target="txt:w_mss-dates_2041 img:zone-w_mss-dates_2041"/>
+               <link target="txt:w_mss-dates_2042 img:zone-w_mss-dates_2042"/>
+               <link target="txt:w_mss-dates_2043 img:zone-w_mss-dates_2043"/>
+            </linkGrp>
+         </ab>
+      </body>
+   </text>
+</TEI>
